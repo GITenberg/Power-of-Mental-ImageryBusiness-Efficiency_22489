@@ -1,0 +1,40 @@
+_repo: Power-of-Mental-ImageryBusiness-Efficiency_22489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hilton, Warren
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '5222'
+    url: http://www.gutenberg.org/2009/agents/5222
+description: Imagination relates either to the past, the present or the future. On
+  the one hand, it is the outright re-imagery in the mind's eye of past experiences.
+  On the other hand, it is the creation of new and original mental images or visions
+  by the recombination of old experiential elements. Do not understand us as saying
+  that imagination, as the term is popularly used, is all you need. There must be
+  also action, incessant, persistent. But creative imagination, in a psychological
+  and scientific sense, begets action. Every thought carries with it the impellent
+  energy to effect its realization. Use yo.
+gutenberg_issued: '2007-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology, Applied'
+- !lcsh 'Imagery (Psychology)'
+- !lcc 'BF'
+title: 'Power of Mental Imagery
+
+  Being the Fifth of a Series of Twelve Volumes on the
+
+  Applications of Psychology to the Problems of Personal and
+
+  Business Efficiency'
+url: http://www.gutenberg.org/ebooks/22489
